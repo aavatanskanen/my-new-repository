@@ -2,7 +2,7 @@
 
 ## Summary
 
-BarkBuddy AI is a machine learning-powered app that analyzes a dog’s barks, whines, and growls to interpret their emotional state, helping owners better understand their pets. **Building AI course project.**
+BarkBuddy AI is a machine learning-powered app that analyzes a dog’s barks, whines, and growls to interpret their emotional state, helping owners better understand their pets. 
 
 ## Background
 
